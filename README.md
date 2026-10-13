@@ -16,7 +16,7 @@ As opções podem ser ativadas no menu principal ou no menu da cozinha.
 
 ## Requisitos
 
-- Windows [confirmar a versão, ex.: 10 ou 11, 64 bits]
+- Windows 11 64 bits
 - SteamVR
 - Equipamento de realidade virtual compatível com o SteamVR (testado no HTC VIVE Cosmos Elite)
 
@@ -24,9 +24,8 @@ As opções podem ser ativadas no menu principal ou no menu da cozinha.
 
 1. Baixe o arquivo `.zip` na seção [Releases](../../releases).
 2. Descompacte o arquivo em uma pasta.
-3. Com o SteamVR aberto e o equipamento conectado, execute o arquivo `[confirmar o nome].exe`.
+3. Com o SteamVR aberto e o equipamento conectado, execute o arquivo `ProjetoVR.exe`.
 
-[confirmar: se o build incluir o XR Device Simulator, acrescentar aqui: "Também é possível testar o jogo sem equipamento de realidade virtual, utilizando o teclado e o mouse por meio do XR Device Simulator."]
 
 ## Controles
 
